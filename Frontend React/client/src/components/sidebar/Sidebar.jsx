@@ -10,7 +10,7 @@ export const Sidebar = () => {
 <div className="top">
     <span className="logo">Remote Engineer </span>
 </div>
-<hr/>
+
 
 <div className="center">
     <ul>
